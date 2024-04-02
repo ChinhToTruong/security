@@ -20,7 +20,7 @@ public class Student {
 
     private String name;
 
-    private GenerationType gender;
+    private String gender;
 
     private String number;
 
